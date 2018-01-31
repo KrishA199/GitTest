@@ -1,8 +1,4 @@
 Here we go!!
 Our new rep - just took off 'o' oop's
-<<<<<<< HEAD
-What reall
-=======
 What reallyy
->>>>>>> 771e314cd18d399519a07cd70d760af55d7baaa8
 What happened next.
